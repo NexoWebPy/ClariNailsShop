@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nexowebpy.github.io/ClariNailsShop/sitemap.xml
